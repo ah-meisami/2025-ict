@@ -1,0 +1,1807 @@
+1
+00:00:00,719 --> 00:00:02,639
+Hello folks, how are you? I hope you're
+
+2
+00:00:02,639 --> 00:00:07,040
+doing well. So, tonight obviously is
+
+3
+00:00:07,040 --> 00:00:10,160
+September 16th, 2025
+
+4
+00:00:10,160 --> 00:00:13,360
+and some of you
+
+5
+00:00:13,360 --> 00:00:15,120
+got a little upset with me, didn't you?
+
+6
+00:00:15,120 --> 00:00:19,359
+Last night was a lesson on patience.
+
+7
+00:00:19,359 --> 00:00:21,439
+Now, I've done it in the past, but I
+
+8
+00:00:21,439 --> 00:00:23,039
+promise I won't pull any shenanigans
+
+9
+00:00:23,039 --> 00:00:27,039
+past that. But I wanted to show you how
+
+10
+00:00:27,039 --> 00:00:28,560
+in this industry it's very important
+
+11
+00:00:28,560 --> 00:00:31,439
+that you try to refrain from building a
+
+12
+00:00:31,439 --> 00:00:34,239
+lot of anticipation expectation of doing
+
+13
+00:00:34,239 --> 00:00:38,000
+something right away. And by priming you
+
+14
+00:00:38,000 --> 00:00:40,640
+about a specific time, a very specific
+
+15
+00:00:40,640 --> 00:00:44,160
+date in advance, it got you excited much
+
+16
+00:00:44,160 --> 00:00:46,079
+like when you learn something new from
+
+17
+00:00:46,079 --> 00:00:49,280
+me. Tonight we'll go over some things
+
+18
+00:00:49,280 --> 00:00:51,840
+and I don't want you to run right out
+
+19
+00:00:51,840 --> 00:00:53,440
+there tomorrow and try to apply all this
+
+20
+00:00:53,440 --> 00:00:55,520
+and try to risk real money. That's the
+
+21
+00:00:55,520 --> 00:00:58,399
+the last thing I want you to do. What I
+
+22
+00:00:58,399 --> 00:01:02,719
+want you to do is build a library of
+
+23
+00:01:02,719 --> 00:01:04,400
+information.
+
+24
+00:01:04,400 --> 00:01:06,720
+Now I'm going to be making available all
+
+25
+00:01:06,720 --> 00:01:09,360
+the lecture notes each time I do it and
+
+26
+00:01:09,360 --> 00:01:11,360
+it'll be shared in the telegram channel
+
+27
+00:01:11,360 --> 00:01:13,600
+and you can find the link in the last
+
+28
+00:01:13,600 --> 00:01:15,840
+page of the the presentation tonight.
+
+29
+00:01:15,840 --> 00:01:18,000
+It'll be in the lecture notes. Also, the
+
+30
+00:01:18,000 --> 00:01:19,680
+hyperlink, you can go to my YouTube
+
+31
+00:01:19,680 --> 00:01:22,400
+channel. Click on the description of my
+
+32
+00:01:22,400 --> 00:01:25,360
+YouTube channel and scrub down to where
+
+33
+00:01:25,360 --> 00:01:29,200
+it gives you the link to Twitter and my
+
+34
+00:01:29,200 --> 00:01:31,840
+personal website. And at the bottom,
+
+35
+00:01:31,840 --> 00:01:34,000
+you'll see the official Telegram channel
+
+36
+00:01:34,000 --> 00:01:36,000
+link. Okay? There's a lot of fakes out
+
+37
+00:01:36,000 --> 00:01:38,320
+there pretending to be me right now and
+
+38
+00:01:38,320 --> 00:01:40,880
+doing a lot of scams, offering fake
+
+39
+00:01:40,880 --> 00:01:42,799
+investment
+
+40
+00:01:42,799 --> 00:01:44,720
+opportunities and crypto this and crypto
+
+41
+00:01:44,720 --> 00:01:47,439
+that and or automated trading. I don't
+
+42
+00:01:47,439 --> 00:01:49,840
+do any of those things, okay? Uh I'm not
+
+43
+00:01:49,840 --> 00:01:51,600
+trying to hawk or sell anything to you
+
+44
+00:01:51,600 --> 00:01:53,520
+in the Telegram channel and I'm never
+
+45
+00:01:53,520 --> 00:01:56,640
+going to DM you in Telegram. If you DM
+
+46
+00:01:56,640 --> 00:02:02,159
+me, I'm going to ignore you. Okay? So,
+
+47
+00:02:02,159 --> 00:02:05,600
+tonight I'm going to be talking about
+
+48
+00:02:05,600 --> 00:02:08,800
+the principle of trading all-time market
+
+49
+00:02:08,800 --> 00:02:11,039
+highs.
+
+50
+00:02:11,039 --> 00:02:12,800
+Now, admittedly, this is something that
+
+51
+00:02:12,800 --> 00:02:14,640
+I had uh struggled with when I was a
+
+52
+00:02:14,640 --> 00:02:16,800
+younger trader uh because I wanted to
+
+53
+00:02:16,800 --> 00:02:18,640
+pick the tops.
+
+54
+00:02:18,640 --> 00:02:20,239
+I figured the richest people in the
+
+55
+00:02:20,239 --> 00:02:23,680
+world traded like that. So, I was trying
+
+56
+00:02:23,680 --> 00:02:27,360
+to find that elusive recipe, if you
+
+57
+00:02:27,360 --> 00:02:30,400
+will, and it doesn't exist. Okay? I can
+
+58
+00:02:30,400 --> 00:02:32,000
+promise you that there is no one out
+
+59
+00:02:32,000 --> 00:02:33,440
+there that's going to be able to tell
+
+60
+00:02:33,440 --> 00:02:35,840
+you when a when a bull market is
+
+61
+00:02:35,840 --> 00:02:38,080
+complete, especially when it's trading
+
+62
+00:02:38,080 --> 00:02:41,120
+at all-time highs. It's a guess, okay?
+
+63
+00:02:41,120 --> 00:02:44,800
+And if there was a science to that, um,
+
+64
+00:02:44,800 --> 00:02:47,120
+I probably would be the person to know
+
+65
+00:02:47,120 --> 00:02:50,080
+how to do it, but I don't believe it's
+
+66
+00:02:50,080 --> 00:02:52,720
+possible. Okay? And the reason why is uh
+
+67
+00:02:52,720 --> 00:02:54,080
+you don't know how far they're going to
+
+68
+00:02:54,080 --> 00:02:57,440
+go with it. And they keep pressing the
+
+69
+00:02:57,440 --> 00:03:01,200
+boundaries of discovery on what the
+
+70
+00:03:01,200 --> 00:03:03,760
+extreme can be. Each day it'll make a
+
+71
+00:03:03,760 --> 00:03:07,680
+new higher high. And the worst thing I
+
+72
+00:03:07,680 --> 00:03:10,879
+had to discover was I missed a lot of
+
+73
+00:03:10,879 --> 00:03:12,640
+really good buying opportunities in the
+
+74
+00:03:12,640 --> 00:03:17,120
+past. So learning this skill set tonight
+
+75
+00:03:17,120 --> 00:03:20,080
+isn't going to be a oneandone. You learn
+
+76
+00:03:20,080 --> 00:03:22,000
+everything by watching this video. But
+
+77
+00:03:22,000 --> 00:03:22,959
+I'm going to give you a lot of
+
+78
+00:03:22,959 --> 00:03:25,519
+principles that
+
+79
+00:03:25,519 --> 00:03:28,480
+at least helped me and helped a lot of
+
+80
+00:03:28,480 --> 00:03:30,640
+my students over the decades of me
+
+81
+00:03:30,640 --> 00:03:35,480
+teaching. So, let's get on with it.
+
+82
+00:03:37,680 --> 00:03:39,519
+All right. Trading all-time highs in any
+
+83
+00:03:39,519 --> 00:03:42,159
+market. Now, I have that slightly
+
+84
+00:03:42,159 --> 00:03:45,040
+different in in the wording because I
+
+85
+00:03:45,040 --> 00:03:46,879
+want you to understand that while I'm
+
+86
+00:03:46,879 --> 00:03:50,000
+talking about this tonight over a NASDAQ
+
+87
+00:03:50,000 --> 00:03:52,239
+chart, I know some of you that are all
+
+88
+00:03:52,239 --> 00:03:55,200
+Forex only and you're already thinking,
+
+89
+00:03:55,200 --> 00:03:57,439
+I'm never going to talk about Forex. I
+
+90
+00:03:57,439 --> 00:03:59,200
+am going to talk about Forex. Everything
+
+91
+00:03:59,200 --> 00:04:00,879
+I'm talking about tonight is applicable
+
+92
+00:04:00,879 --> 00:04:03,760
+to Forex and futures and any other
+
+93
+00:04:03,760 --> 00:04:06,560
+market. Okay? So
+
+94
+00:04:06,560 --> 00:04:08,239
+when we get into the analysis, which
+
+95
+00:04:08,239 --> 00:04:10,239
+won't start until 2 weeks from now.
+
+96
+00:04:10,239 --> 00:04:12,480
+Okay? So I told you there'd be 10
+
+97
+00:04:12,480 --> 00:04:15,120
+fundamental and foundational studies and
+
+98
+00:04:15,120 --> 00:04:16,880
+lectures. So there'll be one this
+
+99
+00:04:16,880 --> 00:04:19,199
+Saturday. There won't be any on Saturday
+
+100
+00:04:19,199 --> 00:04:22,960
+and Sunday normally. So this week, just
+
+101
+00:04:22,960 --> 00:04:24,639
+because I gave you a little teaser last
+
+102
+00:04:24,639 --> 00:04:28,320
+night and just to see who would complain
+
+103
+00:04:28,320 --> 00:04:30,560
+so I could block them on my social media
+
+104
+00:04:30,560 --> 00:04:31,360
+accounts. I don't want to see
+
+105
+00:04:31,360 --> 00:04:35,120
+complainers. The idea is that we're
+
+106
+00:04:35,120 --> 00:04:37,360
+going to teach the principles that I
+
+107
+00:04:37,360 --> 00:04:39,840
+want to cover. They're topical studies.
+
+108
+00:04:39,840 --> 00:04:41,520
+Okay? So, I'm not teaching a model. I've
+
+109
+00:04:41,520 --> 00:04:43,759
+already taught enough models. I'm
+
+110
+00:04:43,759 --> 00:04:45,680
+teaching topical studies that will help
+
+111
+00:04:45,680 --> 00:04:47,759
+enhance the likelihood that you'll find
+
+112
+00:04:47,759 --> 00:04:49,759
+success with what I already taught.
+
+113
+00:04:49,759 --> 00:04:52,320
+Okay? So, it's not that I'm trying to
+
+114
+00:04:52,320 --> 00:04:53,919
+reinvent the wheel or give you something
+
+115
+00:04:53,919 --> 00:04:57,680
+new and shiny. I'm trying to build and
+
+116
+00:04:57,680 --> 00:05:00,240
+beef up your present understanding.
+
+117
+00:05:00,240 --> 00:05:02,800
+Okay? So that's really primarily what
+
+118
+00:05:02,800 --> 00:05:05,360
+we're doing over the next couple months
+
+119
+00:05:05,360 --> 00:05:06,880
+until we get into the second week of
+
+120
+00:05:06,880 --> 00:05:08,639
+November and then I'll go on to my
+
+121
+00:05:08,639 --> 00:05:11,919
+traditional holiday break. All right. So
+
+122
+00:05:11,919 --> 00:05:15,120
+trading all-time highs in any market.
+
+123
+00:05:15,120 --> 00:05:16,639
+When a market is trading at all-time
+
+124
+00:05:16,639 --> 00:05:18,479
+highs, it is more likely that it will
+
+125
+00:05:18,479 --> 00:05:21,199
+continue to post higher all-time highs.
+
+126
+00:05:21,199 --> 00:05:23,039
+Key reference points in algorithmic
+
+127
+00:05:23,039 --> 00:05:26,199
+price delivery.
+
+128
+00:05:26,400 --> 00:05:29,120
+Look for price to trade under down close
+
+129
+00:05:29,120 --> 00:05:31,520
+candles. closing prices. These are
+
+130
+00:05:31,520 --> 00:05:32,960
+rejection blocks and they tend to
+
+131
+00:05:32,960 --> 00:05:37,360
+promote new runs higher in price.
+
+132
+00:05:37,360 --> 00:05:40,080
+If possible, look for all buy side and
+
+133
+00:05:40,080 --> 00:05:42,080
+balance sellside in efficiency fair
+
+134
+00:05:42,080 --> 00:05:44,720
+value gaps to offer redelivery prior to
+
+135
+00:05:44,720 --> 00:05:49,000
+new legs higher in price.
+
+136
+00:05:49,199 --> 00:05:51,440
+Grade all premium candle wicks and
+
+137
+00:05:51,440 --> 00:05:53,360
+anticipate the gradient levels to offer
+
+138
+00:05:53,360 --> 00:05:57,639
+discount sensitivity in price.
+
+139
+00:05:58,080 --> 00:06:00,479
+Look through upclose candles and refer
+
+140
+00:06:00,479 --> 00:06:03,039
+to the premium candle wicks. They need
+
+141
+00:06:03,039 --> 00:06:04,880
+not be isolated. And I'll cover what
+
+142
+00:06:04,880 --> 00:06:08,240
+that means in a few moments.
+
+143
+00:06:08,240 --> 00:06:11,120
+Look for price to trade under up close
+
+144
+00:06:11,120 --> 00:06:14,000
+candles closing prices. Near all-time
+
+145
+00:06:14,000 --> 00:06:16,479
+highs, markets tend to overshoot
+
+146
+00:06:16,479 --> 00:06:18,800
+previous close redely in the form of
+
+147
+00:06:18,800 --> 00:06:22,000
+bear traps.
+
+148
+00:06:22,000 --> 00:06:24,319
+Immediate rebalance is typically very
+
+149
+00:06:24,319 --> 00:06:26,880
+strong and is likely to offer discount
+
+150
+00:06:26,880 --> 00:06:29,360
+sensitivity.
+
+151
+00:06:29,360 --> 00:06:30,960
+Avoid
+
+152
+00:06:30,960 --> 00:06:33,680
+predicting the reversal high. In other
+
+153
+00:06:33,680 --> 00:06:35,840
+words, simply stay bullish until the
+
+154
+00:06:35,840 --> 00:06:37,600
+market proves to you that it's
+
+155
+00:06:37,600 --> 00:06:39,199
+completely and utterly broke down and
+
+156
+00:06:39,199 --> 00:06:42,000
+reversed. Now, that might sound scary.
+
+157
+00:06:42,000 --> 00:06:43,600
+What happens if I get into a trade,
+
+158
+00:06:43,600 --> 00:06:46,240
+Michael, and I'm long and the market
+
+159
+00:06:46,240 --> 00:06:48,720
+completely collapses and hurts me and I
+
+160
+00:06:48,720 --> 00:06:52,080
+lose money? That's part of this. You
+
+161
+00:06:52,080 --> 00:06:54,720
+can't go through this industry and have
+
+162
+00:06:54,720 --> 00:06:56,880
+a career where you never have anything
+
+163
+00:06:56,880 --> 00:06:59,520
+bad happen to you. That's unfortunate
+
+164
+00:06:59,520 --> 00:07:02,080
+because
+
+165
+00:07:02,080 --> 00:07:03,840
+everyone comes into this industry like I
+
+166
+00:07:03,840 --> 00:07:05,759
+did too and we think that we're going to
+
+167
+00:07:05,759 --> 00:07:07,039
+be the exception. We're not going to
+
+168
+00:07:07,039 --> 00:07:11,360
+find that very painful outcome. And if
+
+169
+00:07:11,360 --> 00:07:12,479
+you're going to be trading markets that
+
+170
+00:07:12,479 --> 00:07:14,080
+are trading at all-time highs, you
+
+171
+00:07:14,080 --> 00:07:16,160
+either let the market go without you and
+
+172
+00:07:16,160 --> 00:07:19,199
+trade something else or you submit to
+
+173
+00:07:19,199 --> 00:07:20,720
+the idea that you want to keep taking
+
+174
+00:07:20,720 --> 00:07:23,199
+buy signals
+
+175
+00:07:23,199 --> 00:07:26,160
+and let money management and good trade
+
+176
+00:07:26,160 --> 00:07:28,479
+management do its job. If you're not
+
+177
+00:07:28,479 --> 00:07:32,800
+overleveraging, if you're not over
+
+178
+00:07:32,800 --> 00:07:35,520
+well overtrading,
+
+179
+00:07:35,520 --> 00:07:37,680
+pushing the boundaries of what you're
+
+180
+00:07:37,680 --> 00:07:40,720
+really capable of weathering as a trader
+
+181
+00:07:40,720 --> 00:07:42,960
+in terms of a loss, as long as you're
+
+182
+00:07:42,960 --> 00:07:45,360
+not doing that, it won't take you out of
+
+183
+00:07:45,360 --> 00:07:47,280
+the game. If you're fearful that it's
+
+184
+00:07:47,280 --> 00:07:49,360
+going to take you out of the game on any
+
+185
+00:07:49,360 --> 00:07:51,280
+one particular trade or one market
+
+186
+00:07:51,280 --> 00:07:54,400
+condition setup, then you're probably
+
+187
+00:07:54,400 --> 00:07:57,360
+over overleveraging and you're doing too
+
+188
+00:07:57,360 --> 00:07:59,520
+much where the outcome of one single
+
+189
+00:07:59,520 --> 00:08:02,160
+transaction will completely undermine
+
+190
+00:08:02,160 --> 00:08:04,479
+you. And no trader should ever have
+
+191
+00:08:04,479 --> 00:08:06,960
+their leverage or gearing on their
+
+192
+00:08:06,960 --> 00:08:10,520
+trades that high.
+
+193
+00:08:11,840 --> 00:08:12,800
+All right, so we're going to take a look
+
+194
+00:08:12,800 --> 00:08:13,919
+at the chart here on the lefth hand
+
+195
+00:08:13,919 --> 00:08:15,039
+side. And this is a daily chart. So
+
+196
+00:08:15,039 --> 00:08:15,840
+we're not going to look at anything
+
+197
+00:08:15,840 --> 00:08:18,479
+below a daily chart. So everything here
+
+198
+00:08:18,479 --> 00:08:23,039
+is germanine to bias. It's germanine to
+
+199
+00:08:23,039 --> 00:08:24,720
+narrative. How that's going to blend
+
+200
+00:08:24,720 --> 00:08:26,960
+together and incorporate the idea and
+
+201
+00:08:26,960 --> 00:08:30,879
+the aspects of all-time highs. Now this
+
+202
+00:08:30,879 --> 00:08:32,880
+high here
+
+203
+00:08:32,880 --> 00:08:36,719
+is the all-time high prior to the run
+
+204
+00:08:36,719 --> 00:08:38,719
+higher that we've seen trading up to
+
+205
+00:08:38,719 --> 00:08:40,640
+24,43
+
+206
+00:08:40,640 --> 00:08:42,320
+and a half.
+
+207
+00:08:42,320 --> 00:08:44,959
+So we're going to be looking at the
+
+208
+00:08:44,959 --> 00:08:46,720
+central tenants I've covered here on the
+
+209
+00:08:46,720 --> 00:08:49,440
+right in a list throughout the price
+
+210
+00:08:49,440 --> 00:08:52,720
+action shown on the daily chart. So
+
+211
+00:08:52,720 --> 00:08:55,600
+first we see that there is a sellside
+
+212
+00:08:55,600 --> 00:08:59,040
+liquidity pool raid here. So that run
+
+213
+00:08:59,040 --> 00:09:01,600
+rate right below that low it's taken the
+
+214
+00:09:01,600 --> 00:09:04,160
+sellside liquidity here and then now
+
+215
+00:09:04,160 --> 00:09:05,839
+it's going to start to gravitate back to
+
+216
+00:09:05,839 --> 00:09:08,560
+this high here. Now before it gets there
+
+217
+00:09:08,560 --> 00:09:10,399
+we have this short-term high. So, this
+
+218
+00:09:10,399 --> 00:09:12,240
+is going to be the highest probability
+
+219
+00:09:12,240 --> 00:09:15,440
+high it's going to trade to, but keeping
+
+220
+00:09:15,440 --> 00:09:17,680
+with the rules, when we're trading near
+
+221
+00:09:17,680 --> 00:09:20,000
+all-time highs, it's likely to continue
+
+222
+00:09:20,000 --> 00:09:22,800
+to make higher highs, higher all-time
+
+223
+00:09:22,800 --> 00:09:25,440
+highs. So, we would anticipate this high
+
+224
+00:09:25,440 --> 00:09:27,760
+being taken out should it trade to it.
+
+225
+00:09:27,760 --> 00:09:30,160
+But working from this low here, we'll
+
+226
+00:09:30,160 --> 00:09:33,360
+start annotating everything. So, we have
+
+227
+00:09:33,360 --> 00:09:35,279
+an up close candle here. the closing
+
+228
+00:09:35,279 --> 00:09:38,959
+price of that candle.
+
+229
+00:09:38,959 --> 00:09:41,040
+Notice the next candle we open and we
+
+230
+00:09:41,040 --> 00:09:43,680
+trade down below it. So trading below
+
+231
+00:09:43,680 --> 00:09:46,240
+that previous day's close, if there was
+
+232
+00:09:46,240 --> 00:09:48,000
+a
+
+233
+00:09:48,000 --> 00:09:50,959
+opening range gap, for instance,
+
+234
+00:09:50,959 --> 00:09:52,800
+many times when we're trading at
+
+235
+00:09:52,800 --> 00:09:55,920
+all-time highs or near all-time highs,
+
+236
+00:09:55,920 --> 00:09:57,519
+trading right back to the previous day's
+
+237
+00:09:57,519 --> 00:09:59,680
+close, it can overshoot it. And the
+
+238
+00:09:59,680 --> 00:10:01,040
+reason why it does that is because
+
+239
+00:10:01,040 --> 00:10:02,399
+there's a lot of people in this industry
+
+240
+00:10:02,399 --> 00:10:05,040
+that understands the gap that forms from
+
+241
+00:10:05,040 --> 00:10:06,480
+the previous day's close and where we
+
+242
+00:10:06,480 --> 00:10:09,200
+open at 9:30 in the morning or whatever
+
+243
+00:10:09,200 --> 00:10:11,440
+the uh the market opening price would
+
+244
+00:10:11,440 --> 00:10:16,800
+be. That gap in efficiency gaps tend to
+
+245
+00:10:16,800 --> 00:10:19,760
+rebalance trade back to them offer both
+
+246
+00:10:19,760 --> 00:10:21,839
+buy side and sell side delivery in that
+
+247
+00:10:21,839 --> 00:10:24,720
+gap and then price goes in the direction
+
+248
+00:10:24,720 --> 00:10:26,800
+of the gap. But when we're trading near
+
+249
+00:10:26,800 --> 00:10:29,120
+all-time highs, it tends to create these
+
+250
+00:10:29,120 --> 00:10:31,279
+little bear traps where it doesn't just
+
+251
+00:10:31,279 --> 00:10:32,880
+simply go back to the previous day's
+
+252
+00:10:32,880 --> 00:10:36,320
+close, it goes beyond that and trades
+
+253
+00:10:36,320 --> 00:10:38,560
+lower. What do you think the mindset is
+
+254
+00:10:38,560 --> 00:10:40,560
+of the traders that sees that? They're
+
+255
+00:10:40,560 --> 00:10:42,640
+going to think, "Wow, it's gone beyond
+
+256
+00:10:42,640 --> 00:10:44,880
+just simply going back and closing any
+
+257
+00:10:44,880 --> 00:10:47,440
+opening range gap. It's broke down and
+
+258
+00:10:47,440 --> 00:10:49,440
+traded below the opening range gap and
+
+259
+00:10:49,440 --> 00:10:51,519
+went lower." So, they're going to think
+
+260
+00:10:51,519 --> 00:10:53,279
+what? The market's going to keep going
+
+261
+00:10:53,279 --> 00:10:54,959
+lower. and they're going to think that
+
+262
+00:10:54,959 --> 00:10:57,519
+the market is now topped. And that's
+
+263
+00:10:57,519 --> 00:10:59,040
+what the market makers tend to do in
+
+264
+00:10:59,040 --> 00:11:02,240
+this general market condition. These are
+
+265
+00:11:02,240 --> 00:11:04,560
+just very generic principles that I live
+
+266
+00:11:04,560 --> 00:11:07,360
+by as a trader. And if you incorporate
+
+267
+00:11:07,360 --> 00:11:10,720
+them, you you're not going to be
+
+268
+00:11:10,720 --> 00:11:12,880
+completely exempt from having anything
+
+269
+00:11:12,880 --> 00:11:14,480
+bad happen to you. It doesn't mean
+
+270
+00:11:14,480 --> 00:11:15,519
+you're not going to have losing trades
+
+271
+00:11:15,519 --> 00:11:17,200
+or do it wrong. It just means that at
+
+272
+00:11:17,200 --> 00:11:18,640
+least you won't be guessing like
+
+273
+00:11:18,640 --> 00:11:21,839
+everyone else does because most every
+
+274
+00:11:21,839 --> 00:11:24,240
+other individual out there, they're all
+
+275
+00:11:24,240 --> 00:11:25,920
+going to try to pick the top. They're
+
+276
+00:11:25,920 --> 00:11:27,440
+all expecting a crash. They're all
+
+277
+00:11:27,440 --> 00:11:30,000
+trying to get the next big, you know,
+
+278
+00:11:30,000 --> 00:11:33,200
+slide in price lower. And what I'm going
+
+279
+00:11:33,200 --> 00:11:35,519
+to do is press on you to to think about
+
+280
+00:11:35,519 --> 00:11:37,200
+how they're going to just keep taking it
+
+281
+00:11:37,200 --> 00:11:38,800
+higher.
+
+282
+00:11:38,800 --> 00:11:42,079
+So, this is what I mean by overshooting
+
+283
+00:11:42,079 --> 00:11:44,480
+below the previous day's close right
+
+284
+00:11:44,480 --> 00:11:46,720
+here. Next day we open and we trade down
+
+285
+00:11:46,720 --> 00:11:49,839
+below that close. And traders that are
+
+286
+00:11:49,839 --> 00:11:52,640
+looking for a collapse in price, they
+
+287
+00:11:52,640 --> 00:11:54,240
+may even look at this as relative equal
+
+288
+00:11:54,240 --> 00:11:55,760
+lows that the market may want to trade
+
+289
+00:11:55,760 --> 00:11:57,760
+down there and take that out. Try to
+
+290
+00:11:57,760 --> 00:12:00,880
+avoid that. Okay. And the next example
+
+291
+00:12:00,880 --> 00:12:04,320
+here is immediate rebalance. This market
+
+292
+00:12:04,320 --> 00:12:08,320
+creates a a nice big up close candle. We
+
+293
+00:12:08,320 --> 00:12:10,399
+open here. We trade back down to the
+
+294
+00:12:10,399 --> 00:12:12,240
+previous day's close. So what are they
+
+295
+00:12:12,240 --> 00:12:14,000
+going to do? They're going to overshoot
+
+296
+00:12:14,000 --> 00:12:16,480
+that. and it does it trades all the way
+
+297
+00:12:16,480 --> 00:12:19,279
+back down to the day before this up
+
+298
+00:12:19,279 --> 00:12:21,519
+close candle to offer an immediate
+
+299
+00:12:21,519 --> 00:12:23,279
+rebalance.
+
+300
+00:12:23,279 --> 00:12:25,920
+So, two principles there are happening.
+
+301
+00:12:25,920 --> 00:12:27,440
+We're opening trading back to the
+
+302
+00:12:27,440 --> 00:12:29,200
+previous stage close, but not just
+
+303
+00:12:29,200 --> 00:12:31,200
+closing that gap and then going higher.
+
+304
+00:12:31,200 --> 00:12:32,880
+It's closing that gap and going all the
+
+305
+00:12:32,880 --> 00:12:35,519
+way back over top and redelivery back to
+
+306
+00:12:35,519 --> 00:12:37,760
+this candle's high. That's immediate
+
+307
+00:12:37,760 --> 00:12:40,800
+rebalance. When that happens, generally,
+
+308
+00:12:40,800 --> 00:12:42,399
+you're going to see a very, very strong
+
+309
+00:12:42,399 --> 00:12:43,600
+reaction. And there's going to be a lot
+
+310
+00:12:43,600 --> 00:12:45,920
+of discount sensitivity, meaning that
+
+311
+00:12:45,920 --> 00:12:47,519
+the market's going to treat that as a
+
+312
+00:12:47,519 --> 00:12:49,839
+very strong discount PD array, and the
+
+313
+00:12:49,839 --> 00:12:52,399
+market's going to immediately launch
+
+314
+00:12:52,399 --> 00:12:54,320
+higher from there. And you can see that
+
+315
+00:12:54,320 --> 00:12:56,560
+actually happens here. And then the next
+
+316
+00:12:56,560 --> 00:13:00,720
+day, we open below the previous day's
+
+317
+00:13:00,720 --> 00:13:02,639
+close, which is another tenant where we
+
+318
+00:13:02,639 --> 00:13:04,959
+open, we trade down below the previous
+
+319
+00:13:04,959 --> 00:13:07,839
+day's close. That's a rejection block.
+
+320
+00:13:07,839 --> 00:13:09,440
+That closing price here on a down close
+
+321
+00:13:09,440 --> 00:13:12,079
+candle and it's going to be rejected as
+
+322
+00:13:12,079 --> 00:13:13,760
+you can see here. Comes right back up.
+
+323
+00:13:13,760 --> 00:13:15,440
+But notice it doesn't take out that that
+
+324
+00:13:15,440 --> 00:13:18,160
+candle's high. The next day we open, we
+
+325
+00:13:18,160 --> 00:13:20,000
+got a small little gap there. So what's
+
+326
+00:13:20,000 --> 00:13:21,440
+going to happen? It's going to it's
+
+327
+00:13:21,440 --> 00:13:24,079
+going to probe. Okay? It's going to go
+
+328
+00:13:24,079 --> 00:13:26,000
+below just
+
+329
+00:13:26,000 --> 00:13:27,519
+closing that gap is what everybody's
+
+330
+00:13:27,519 --> 00:13:29,360
+expecting, but it's going to go below
+
+331
+00:13:29,360 --> 00:13:32,079
+that previous day's close and entice
+
+332
+00:13:32,079 --> 00:13:36,639
+traders to do what? Be short.
+
+333
+00:13:36,639 --> 00:13:38,480
+So we have that rejection block discount
+
+334
+00:13:38,480 --> 00:13:41,040
+sensitivity on this candle
+
+335
+00:13:41,040 --> 00:13:45,360
+and now we have this premium candle wick
+
+336
+00:13:45,360 --> 00:13:47,839
+and we're grading that. So we have the
+
+337
+00:13:47,839 --> 00:13:50,639
+lower quadrant consequent encroachment
+
+338
+00:13:50,639 --> 00:13:52,320
+upper quadrant and we don't need the
+
+339
+00:13:52,320 --> 00:13:54,240
+high and the low annotated. We're going
+
+340
+00:13:54,240 --> 00:13:56,399
+to look at the chart to see what that
+
+341
+00:13:56,399 --> 00:13:58,720
+is. But not notice the sensitivity here
+
+342
+00:13:58,720 --> 00:14:03,839
+at the 75 quadrant. we open, reach the
+
+343
+00:14:03,839 --> 00:14:05,920
+previous day's close. So, everyone that
+
+344
+00:14:05,920 --> 00:14:07,440
+wants to see just simply the gap closure
+
+345
+00:14:07,440 --> 00:14:09,199
+and then continue higher, they're
+
+346
+00:14:09,199 --> 00:14:11,839
+getting toasted here. Trades down to
+
+347
+00:14:11,839 --> 00:14:13,519
+that lower quadrant, overshoots it a
+
+348
+00:14:13,519 --> 00:14:15,839
+little bit and then sends it higher,
+
+349
+00:14:15,839 --> 00:14:18,480
+taking out the previous two days high.
+
+350
+00:14:18,480 --> 00:14:20,720
+Then the next day,
+
+351
+00:14:20,720 --> 00:14:23,760
+we have a higher open. We trade down to
+
+352
+00:14:23,760 --> 00:14:26,959
+the previous day's close. Again, that
+
+353
+00:14:26,959 --> 00:14:31,279
+gap is a trap to set for bears. it drops
+
+354
+00:14:31,279 --> 00:14:33,920
+lower down to the 50% level of that
+
+355
+00:14:33,920 --> 00:14:36,320
+premium candle wick. Again, we cut
+
+356
+00:14:36,320 --> 00:14:39,199
+through these candles, all these premium
+
+357
+00:14:39,199 --> 00:14:42,079
+candle wicks, keep them annotated
+
+358
+00:14:42,079 --> 00:14:43,279
+because the market's going to go back
+
+359
+00:14:43,279 --> 00:14:45,120
+into those levels again. When it
+
+360
+00:14:45,120 --> 00:14:47,040
+overshoots the previous day's closing
+
+361
+00:14:47,040 --> 00:14:49,680
+price, it's going to trap traders simply
+
+362
+00:14:49,680 --> 00:14:52,079
+looking for the gap closure and then
+
+363
+00:14:52,079 --> 00:14:55,040
+buying. It's it's going to go lower. It
+
+364
+00:14:55,040 --> 00:14:56,639
+does this a lot. And I'm not expecting
+
+365
+00:14:56,639 --> 00:14:58,240
+you to just simply use this because it
+
+366
+00:14:58,240 --> 00:15:00,079
+looks like I'm cherry-picking. go back
+
+367
+00:15:00,079 --> 00:15:04,240
+over old market data. Look at stocks.
+
+368
+00:15:04,240 --> 00:15:06,240
+Stocks are really good with this. So, if
+
+369
+00:15:06,240 --> 00:15:09,440
+you're a trader that wants to trade um
+
+370
+00:15:09,440 --> 00:15:11,440
+you know,
+
+371
+00:15:11,440 --> 00:15:15,279
+MISC stocks or NASDAQ stocks, uh this is
+
+372
+00:15:15,279 --> 00:15:16,800
+a principle that repeats a lot with them
+
+373
+00:15:16,800 --> 00:15:18,720
+as well. The the gaps tend to be a
+
+374
+00:15:18,720 --> 00:15:20,959
+little bit larger there, too. So, it
+
+375
+00:15:20,959 --> 00:15:22,639
+gives you a lot of volatility if you're
+
+376
+00:15:22,639 --> 00:15:25,440
+if you're trying to day trade those um
+
+377
+00:15:25,440 --> 00:15:26,959
+assets. I don't like the day trade
+
+378
+00:15:26,959 --> 00:15:29,600
+stocks, but I just toss it out there for
+
+379
+00:15:29,600 --> 00:15:32,959
+no extra charge. But we see the premium
+
+380
+00:15:32,959 --> 00:15:35,600
+candle wick gradient discount
+
+381
+00:15:35,600 --> 00:15:38,639
+sensitivity here on this candle. We
+
+382
+00:15:38,639 --> 00:15:42,320
+open. We have a volume imbalance.
+
+383
+00:15:42,320 --> 00:15:46,720
+We trade down to this premium candle
+
+384
+00:15:46,720 --> 00:15:49,199
+wick and it's halfway point is the
+
+385
+00:15:49,199 --> 00:15:50,399
+consequent encroachment. And notice how
+
+386
+00:15:50,399 --> 00:15:52,240
+it trades right down to that. So, not
+
+387
+00:15:52,240 --> 00:15:54,560
+only do we open here, we go back to the
+
+388
+00:15:54,560 --> 00:15:56,880
+previous day's closing price. Most
+
+389
+00:15:56,880 --> 00:15:58,240
+traders that are watching this on a day
+
+390
+00:15:58,240 --> 00:15:59,360
+trading basis, they're going to see that
+
+391
+00:15:59,360 --> 00:16:00,639
+and think, "Okay, well, it's gap
+
+392
+00:16:00,639 --> 00:16:01,920
+closure. Now, it's going to rally
+
+393
+00:16:01,920 --> 00:16:03,759
+because it's bullish." And the market
+
+394
+00:16:03,759 --> 00:16:05,360
+just goes even lower. But goes right
+
+395
+00:16:05,360 --> 00:16:07,279
+back to where I teach you to watch these
+
+396
+00:16:07,279 --> 00:16:10,480
+premium candle wicks. The consequent
+
+397
+00:16:10,480 --> 00:16:13,199
+encroachment hits it there beautifully
+
+398
+00:16:13,199 --> 00:16:15,920
+and then trades higher. And the next day
+
+399
+00:16:15,920 --> 00:16:18,160
+we open, come back to the previous day's
+
+400
+00:16:18,160 --> 00:16:19,759
+close, overshoot it again to the
+
+401
+00:16:19,759 --> 00:16:22,480
+downside, suckering in people thinking
+
+402
+00:16:22,480 --> 00:16:25,360
+it's it's created a top. It has to have
+
+403
+00:16:25,360 --> 00:16:27,440
+created a top and they get short and
+
+404
+00:16:27,440 --> 00:16:29,600
+then market runs right over top of them
+
+405
+00:16:29,600 --> 00:16:32,560
+again,
+
+406
+00:16:32,560 --> 00:16:35,360
+reaching the all-time high as we
+
+407
+00:16:35,360 --> 00:16:38,480
+indicated a little bit ago.
+
+408
+00:16:38,480 --> 00:16:41,600
+So I want you to think about how using
+
+409
+00:16:41,600 --> 00:16:46,680
+these principles, these very
+
+410
+00:16:46,800 --> 00:16:50,959
+generic ideas that it's not complicated.
+
+411
+00:16:50,959 --> 00:16:54,800
+They keep repeating and it keeps you on
+
+412
+00:16:54,800 --> 00:16:58,240
+the on your toes about anticipating some
+
+413
+00:16:58,240 --> 00:17:00,720
+measure of manipulation. So, this is
+
+414
+00:17:00,720 --> 00:17:02,880
+what generally the retail traders get
+
+415
+00:17:02,880 --> 00:17:04,959
+caught up in because they're chasing
+
+416
+00:17:04,959 --> 00:17:07,439
+price, anticipating, hoping, and and
+
+417
+00:17:07,439 --> 00:17:09,439
+praying basically that the market's
+
+418
+00:17:09,439 --> 00:17:11,280
+going to break down and collapse. But
+
+419
+00:17:11,280 --> 00:17:13,760
+all the market does is go back to these
+
+420
+00:17:13,760 --> 00:17:16,319
+previous PDA rays algorithmically and
+
+421
+00:17:16,319 --> 00:17:18,799
+then delivers and spools higher. And
+
+422
+00:17:18,799 --> 00:17:20,319
+it's very frustrating if you don't know
+
+423
+00:17:20,319 --> 00:17:22,559
+these things. Maybe you've been hurt.
+
+424
+00:17:22,559 --> 00:17:24,160
+Maybe you've been trying to capture the
+
+425
+00:17:24,160 --> 00:17:25,919
+the high in this market or another
+
+426
+00:17:25,919 --> 00:17:28,319
+market. And you can go back and look at
+
+427
+00:17:28,319 --> 00:17:29,919
+your trades and you can pretty much see
+
+428
+00:17:29,919 --> 00:17:32,080
+that what you failed on is what I'm
+
+429
+00:17:32,080 --> 00:17:34,320
+showing how you can avoid doing that in
+
+430
+00:17:34,320 --> 00:17:36,000
+the future. And I'm not saying you're
+
+431
+00:17:36,000 --> 00:17:37,679
+not going to take losing trades. I'm
+
+432
+00:17:37,679 --> 00:17:38,880
+saying that at least you're going to
+
+433
+00:17:38,880 --> 00:17:41,360
+know now how the market's algorithm
+
+434
+00:17:41,360 --> 00:17:43,679
+reprices back into these very specific
+
+435
+00:17:43,679 --> 00:17:45,840
+PDAs when they're trading at all-time
+
+436
+00:17:45,840 --> 00:17:49,360
+highs or near all-time highs. Until the
+
+437
+00:17:49,360 --> 00:17:50,880
+market completely collapses and shows
+
+438
+00:17:50,880 --> 00:17:52,960
+you it's reversed,
+
+439
+00:17:52,960 --> 00:17:55,120
+don't look for shorts. It's better for
+
+440
+00:17:55,120 --> 00:17:56,559
+you to anticipate it like this because
+
+441
+00:17:56,559 --> 00:17:57,919
+you'll get the lines portion of the
+
+442
+00:17:57,919 --> 00:18:00,080
+move. You'll be on side. You'll be
+
+443
+00:18:00,080 --> 00:18:02,000
+within the narrative. You'll be with the
+
+444
+00:18:02,000 --> 00:18:04,320
+bias correctly. Higher time frame order
+
+445
+00:18:04,320 --> 00:18:06,799
+flow is on your in your favor. And
+
+446
+00:18:06,799 --> 00:18:09,120
+you'll be able to weather the daily
+
+447
+00:18:09,120 --> 00:18:12,000
+range eb and flow up and down and get
+
+448
+00:18:12,000 --> 00:18:16,120
+the lion's portion of the move.
+
+449
+00:18:23,200 --> 00:18:24,640
+Hope you found this insightful. Thank
+
+450
+00:18:24,640 --> 00:18:26,240
+you for your continued interest. Until
+
+451
+00:18:26,240 --> 00:18:28,320
+next time, I wish you good luck and good
+
+452
+00:18:28,320 --> 00:18:31,320
+trading.
